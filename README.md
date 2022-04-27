@@ -1,4 +1,4 @@
-### # Hi! I'm Arnaldo Menezes!💻🚀   
+### Hi! I'm Arnaldo Menezes!💻🚀   
 
 - 👨🏽‍🎓 | Acadêmico de Análise e Desenvolvimento de Sistemas.
 - 💻| Desenvolvedor Java Jr. 
