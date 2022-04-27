@@ -2,7 +2,7 @@
 
 - 👨🏽‍🎓 | Acadêmico de Análise e Desenvolvimento de Sistemas.
 - 💻| Desenvolvedor Java Jr. 
-- 📚 | <b>"O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática"<b> (Autor Desconhecido)  
+- 📚 | <b>"O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática."<b> (Autor Desconhecido)  
 
 ##
   
