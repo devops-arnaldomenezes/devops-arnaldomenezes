@@ -1,7 +1,7 @@
-### # Opa! I'm Eddward Messias!💻🌵   
+### # Hi! I'm Arnaldo Menezes!💻🚀   
 - 👨🏽‍🎓 | Acadêmico em Análise e Desenvolvimento de Sistemas.
-- 💻| Desenvolvedor Java. 
-- 🌵 | <b>"O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática"<b> (Autor Desconhecido)  
+- 💻| Desenvolvedor Java Jr. 
+- 📚 | <b>"O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática"<b> (Autor Desconhecido)  
 
 <div align="center">
   <a href="https://github.com/devops-arnaldomenezes">
