@@ -1,6 +1,6 @@
 ### Hi! I'm Arnaldo Menezes!💻🚀   
 
-- 👨🏽‍🎓 | Acadêmico de Análise e Desenvolvimento de Sistemas.
+- 👨🏽‍🎓 | Graduado em Análise e Desenvolvimento de Sistemas | Graduando em Engenharia de Software
 - 💻| Desenvolvedor Java Jr. 
 - 📚 | <b>"O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática."<b> (Autor Desconhecido)  
 
